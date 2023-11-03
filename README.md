@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Тут должна быть информация обо мне, но зачем...
 <!--
 **keefteme/keefteme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
